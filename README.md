@@ -105,7 +105,7 @@ A greedy modularity-optimisation algorithm that builds a K-NN graph and iterativ
 1. **Clone the repository**
    ```bash
    git clone https://github.com/anjalireddy1706/Colorectal_Cancer_Tissue_Analysis.git
-   cd <repo-name>
+   cd Colorectal_Cancer_Tissue_Analysis
    ```
 
 2. **Install dependencies**
