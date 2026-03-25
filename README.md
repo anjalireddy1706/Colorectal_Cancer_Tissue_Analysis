@@ -104,7 +104,7 @@ A greedy modularity-optimisation algorithm that builds a K-NN graph and iterativ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/anjalireddy1706/Colorectal_Cancer_Tissue_Analysis.git
    cd <repo-name>
    ```
 
