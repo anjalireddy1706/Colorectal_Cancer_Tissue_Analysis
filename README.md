@@ -26,8 +26,7 @@ Although clustering is inherently unsupervised, the dataset includes ground trut
 
 - **Size:** 5,000 colorectal tissue patches
 - **Source:** H&E stained histological images
-- **Feature Extractors:** PathologyGAN, VGG16, ResNet50, InceptionV3
-- **Focus:** PathologyGAN (PGE) and VGG16 feature sets
+- **Feature Extractors:** PathologyGAN (PGE) and VGG16 feature sets
 - **Dimensionality Reduction:** PCA and UMAP (reduced to 100 components)
 
 Feature representations used in this study:
